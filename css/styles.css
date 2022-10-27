@@ -21,7 +21,7 @@
   
   .jumbotron .container {
     max-width: 40rem;
-    min-height:200px ;
+    min-height:400px ;
   }
   
   footer {
@@ -61,3 +61,12 @@
     }
   }
  
+  .about {
+    max-width: 40rem;
+    min-height:200px ;
+    ;
+  }
+  .quotes{
+    min-width: 100px;
+
+  }
