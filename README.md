@@ -8,4 +8,4 @@ The portfolio website of Priyanka Bangalore Nagaraja describes the progress, int
 Html5, CSS3, Javascript, Git, VS Code
 
 ## Deployed link
-https://priyanka-bn11.github.io/Priyanka-BN11-portfolio.github.io/
+https://priyanka-bn11.github.io/Portfolio-assignment/
